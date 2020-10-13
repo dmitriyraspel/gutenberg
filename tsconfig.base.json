@@ -40,7 +40,7 @@
 		"**/*.android.js",
 		"**/*.ios.js",
 		"**/*.native.js",
-		"./packages/**/react-native-*/**"
-		"**/stories"
+		"packages/**/react-native-*/**",
+		"packages/**/stories"
 	]
 }
